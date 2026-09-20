@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cv_1788559804344_z4opd",
+    "name": "Voix Marocaine Test",
+    "createdAt": 1788559804344,
+    "audioFileName": "sample.wav",
+    "audioDurationSeconds": 10,
+    "audioSizeBytes": 217004,
+    "mimeType": "audio/wav",
+    "status": "ready",
+    "consentConfirmed": true,
+    "consentTimestamp": 1788559804344,
+    "consentText": "Je confirme que j'ai l'autorisation d'utiliser cet enregistrement vocal et de créer une voix personnalisée à partir de celui-ci.",
+    "acousticProfile": {
+      "gender": "female",
+      "detectedLanguage": "Modern Standard Arabic with Moroccan accent influence",
+      "accentOrDialect": "Moroccan / Maghrebi accented Arabic, characterized by crisp alveolar stops, distinct pharyngeal articulation, clean dental fricatives, and subtle vowel reduction typical of Moroccan speech cadence.",
+      "timbreDescription": "Warm, clear, natural, slightly intimate, smooth, with balanced mid-range resonance and minimal vocal fry.",
+      "pitchRegister": "alto",
+      "cadenceAndPacing": "Moderate and deliberate pacing, measured pauses between syntactic phrases, steady rhythmic cadence, and an informative, calm delivery style.",
+      "recommendedCarrierVoice": "Kore",
+      "acousticConditioningPrompt": "Speak in a calm, clear, and warm adult female voice with an alto pitch register. Emulate a Moroccan Arabic acoustic profile featuring precise consonant enunciation, subtle Maghrebi cadence and stress patterns, smooth phonation, and a natural, conversational delivery without exaggerated theatricality or excessive vocal fry."
+    },
+    "previewAudioBase64": ""
+  }
+]
